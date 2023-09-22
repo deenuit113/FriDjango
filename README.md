@@ -1,4 +1,4 @@
-# fri.D.jango
+# FriDjango
 
 FriDjango
 
